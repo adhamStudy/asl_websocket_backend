@@ -1,0 +1,4 @@
+opencv-python-headless==4.8.1.78
+mediapipe==0.10.7
+websockets==11.0.3
+numpy==1.24.3
